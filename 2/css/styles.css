@@ -1,0 +1,15 @@
+@import "main.css";
+
+.niger {
+    color: aqua;
+}
+
+h1,
+h4 {
+    color: red;
+}
+
+button {
+    color: white;
+    border-radius: 15px;
+}
